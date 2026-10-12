@@ -87,7 +87,7 @@
   </header>
   <main id="main-content" tabindex="-1">
    <div class="container page-space">
-    <!-- DEMANDE 01 — À PROGRAMMER : Lier le nom, le slogan, le logo et les images avec les données de la boutique. -->
+    <!-- DEMANDE 01 — À PROGRAMMER : Lier le nom, le slogan, le logo ../../public images avec les données de la boutique. -->
     <section class="hero">
      <div class="hero-copy">
       <p class="eyebrow">
@@ -135,8 +135,8 @@
        <br/>
        DU PARTAGE
       </span>
-      <img alt="" class="hero-rice" height="280" src="assets/images/riz.svg" width="250"/>
-      <img alt="" class="hero-veg" height="205" src="assets/images/tomates.svg" width="205"/>
+      <img alt="" class="hero-rice" height="280" src="../../public/images/riz.svg" width="250"/>
+      <img alt="" class="hero-veg" height="205" src="../../public/images/tomates.svg" width="205"/>
       <div class="hero-note">
        Ñu bokk, ñu partage.
        <small>
@@ -156,34 +156,34 @@
        </h2>
       </div>
      </div>
-     <!-- DEMANDE 01 / 03 — À PROGRAMMER : Utiliser les catégories de l’API pour les images, la couleur CSS et le filtre. -->
+     <!-- DEMANDE 01 / 03 — À PROGRAMMER : Utiliser les catégories de l’API po../../public images, la couleur CSS et le filtre. -->
      <div class="categories">
       <a class="category" href="categories/cereales.html" style="--category-color: #b98a38">
-       <img alt="" height="48" src="assets/images/cereales.svg" width="56"/>
+       <img alt="" height="48" src="../../public/images/cereales.svg" width="56"/>
        <span>
         Céréales
        </span>
       </a>
       <a class="category" href="categories/legumes.html" style="--category-color: #468060">
-       <img alt="" height="48" src="assets/images/legumes.svg" width="56"/>
+       <img alt="" height="48" src="../../public/images/legumes.svg" width="56"/>
        <span>
         Légumes
        </span>
       </a>
       <a class="category" href="categories/epicerie.html" style="--category-color: #b65c3a">
-       <img alt="" height="48" src="assets/images/epicerie.svg" width="56"/>
+       <img alt="" height="48" src="../../public/images/epicerie.svg" width="56"/>
        <span>
         Épicerie
        </span>
       </a>
       <a class="category" href="categories/poisson.html" style="--category-color: #477d87">
-       <img alt="" height="48" src="assets/images/poisson.svg" width="56"/>
+       <img alt="" height="48" src="../../public/images/poisson.svg" width="56"/>
        <span>
         Poisson
        </span>
       </a>
       <a class="category" href="categories/saveurs-locales.html" style="--category-color: #956687">
-       <img alt="" height="48" src="assets/images/local.svg" width="56"/>
+       <img alt="" height="48" src="../../public/images/local.svg" width="56"/>
        <span>
         Saveurs locales
        </span>
@@ -213,7 +213,7 @@
       <article class="product-card" data-component="ProductCard" data-product-id="1">
        <div class="product-media">
         <a aria-label="Voir Riz brisé parfumé" href="produits/01-riz.html">
-         <img alt="Riz brisé parfumé" height="240" loading="lazy" src="assets/images/riz.svg" width="360"/>
+         <img alt="Riz brisé parfumé" height="240" loading="lazy" src="../../public/images/riz.svg" width="360"/>
         </a>
        </div>
        <div class="product-body">
@@ -252,7 +252,7 @@
       <article class="product-card" data-component="ProductCard" data-product-id="2">
        <div class="product-media">
         <a aria-label="Voir Oignons de Potou" href="produits/02-oignons.html">
-         <img alt="Oignons de Potou" height="240" loading="lazy" src="assets/images/oignons.svg" width="360"/>
+         <img alt="Oignons de Potou" height="240" loading="lazy" src="../../public/images/oignons.svg" width="360"/>
         </a>
         <span class="promo-tag">
          Promo −7 %
@@ -297,7 +297,7 @@
       <article class="product-card" data-component="ProductCard" data-product-id="4">
        <div class="product-media">
         <a aria-label="Voir Fonio précuit" href="produits/04-fonio.html">
-         <img alt="Fonio précuit" height="240" loading="lazy" src="assets/images/fonio.svg" width="360"/>
+         <img alt="Fonio précuit" height="240" loading="lazy" src="../../public/images/fonio.svg" width="360"/>
         </a>
         <span class="promo-tag">
          Promo −9 %
@@ -342,7 +342,7 @@
       <article class="product-card out-of-stock" data-component="ProductCard" data-product-id="8">
        <div class="product-media">
         <a aria-label="Voir Gombo frais" href="produits/08-gombo.html">
-         <img alt="Gombo frais" height="240" loading="lazy" src="assets/images/gombo.svg" width="360"/>
+         <img alt="Gombo frais" height="240" loading="lazy" src="../../public/images/gombo.svg" width="360"/>
         </a>
        </div>
        <div class="product-body">
@@ -381,7 +381,7 @@
       <article class="product-card" data-component="ProductCard" data-product-id="9">
        <div class="product-media">
         <a aria-label="Voir Huile d’arachide" href="produits/09-huile.html">
-         <img alt="Huile d’arachide" height="240" loading="lazy" src="assets/images/huile.svg" width="360"/>
+         <img alt="Huile d’arachide" height="240" loading="lazy" src="../../public/images/huile.svg" width="360"/>
         </a>
         <span class="promo-tag">
          Promo −7 %
@@ -426,7 +426,7 @@
       <article class="product-card" data-component="ProductCard" data-product-id="13">
        <div class="product-media">
         <a aria-label="Voir Thiof" href="produits/13-thiof.html">
-         <img alt="Thiof" height="240" loading="lazy" src="assets/images/thiof.svg" width="360"/>
+         <img alt="Thiof" height="240" loading="lazy" src="../../public/images/thiof.svg" width="360"/>
         </a>
        </div>
        <div class="product-body">
@@ -465,7 +465,7 @@
       <article class="product-card" data-component="ProductCard" data-product-id="17">
        <div class="product-media">
         <a aria-label="Voir Bissap séché" href="produits/17-bissap.html">
-         <img alt="Bissap séché" height="240" loading="lazy" src="assets/images/bissap.svg" width="360"/>
+         <img alt="Bissap séché" height="240" loading="lazy" src="../../public/images/bissap.svg" width="360"/>
         </a>
        </div>
        <div class="product-body">
@@ -504,7 +504,7 @@
       <article class="product-card" data-component="ProductCard" data-product-id="18">
        <div class="product-media">
         <a aria-label="Voir Bouye en poudre" href="produits/18-bouye.html">
-         <img alt="Bouye en poudre" height="240" loading="lazy" src="assets/images/bouye.svg" width="360"/>
+         <img alt="Bouye en poudre" height="240" loading="lazy" src="../../public/images/bouye.svg" width="360"/>
         </a>
         <span class="promo-tag">
          Promo −11 %
@@ -672,7 +672,7 @@
      <!-- DEMANDE 05 / 24 — À PROGRAMMER : Afficher les lignes du store panier ; boutons et quantités sans effet dans ce template. -->
      <div class="cart-items">
       <article class="cart-line" data-product-id="1">
-       <img alt="Riz brisé parfumé" height="70" src="assets/images/riz.svg" width="64"/>
+       <img alt="Riz brisé parfumé" height="70" src="../../public/images/riz.svg" width="64"/>
        <div class="cart-line-main">
         <strong>
          Riz brisé parfumé
@@ -703,7 +703,7 @@
        </div>
       </article>
       <article class="cart-line" data-product-id="2">
-       <img alt="Oignons de Potou" height="70" src="assets/images/oignons.svg" width="64"/>
+       <img alt="Oignons de Potou" height="70" src="../../public/images/oignons.svg" width="64"/>
        <div class="cart-line-main">
         <strong>
          Oignons de Potou
@@ -734,7 +734,7 @@
        </div>
       </article>
       <article class="cart-line" data-product-id="17">
-       <img alt="Bissap séché" height="70" src="assets/images/bissap.svg" width="64"/>
+       <img alt="Bissap séché" height="70" src="../../public/images/bissap.svg" width="64"/>
        <div class="cart-line-main">
         <strong>
          Bissap séché
